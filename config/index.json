@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb://localhost:27017/react_app",
+  "jwtSecret": "YmLm8zgt8ufLlD4NyEJwJZV6IWAO41NCCaMrbuX8SVIH1ptRzGvOcaOmuWORtW9R"
+}
